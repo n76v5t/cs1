@@ -1,164 +1,20 @@
 java c
-Department of Technology Management and Innovation
-MG-GY 6343-INET (6343) Human Capital Engineering  Analytics, Online
-Fall 2023
-Course Pre-requisites: Graduate Standing 
-Course Description:
-This course examines and applies the valuation and management of intangible assets in designing and managing post-industrial organizations.  As organizations increasingly rely on technology to produce value, these technological solutions require interactions with other forms of value creation like Human Capital Management, Intellectual Property development and Organization Culture.   The first part of the course focuses on human capital engineering using an interdisciplinary approach, drawing on diverse fields including industrial-organizational psychology, industrial engineering, economics, and artificial intelligence to create a holistic view of how work in its various forms creates value. The second part of the course addresses people analytics, providing the student with a knowledge and understanding of current best practices, issues, and decision points in building an effective human capital analytic program.  This part of the course will also focus on data structure and design to enable automation and predictive modeling and will place an emphasis on technology-enabled reporting.
-Course Objective:
-By the end of the course, students should:
-· Understanding of how to apply Human Capital Theory to HR Management, Industrial Engineering, and related fields to building a Human Capital Strategy
-· Understand the types of HC/HR data that exist and analytic options that are commonly used.
-· Understand how the interplay between human competencies and the capabilities of technology combine to accomplish work and create value.
-· Demonstrate how analytics are applied to human capital and used to make decisions.
-· Identify standard Key Performance Indicators often used in HR scorecards and measurement.
-· Identify and create data displays and dashboard designs that enable organization decision making and change.
-· Develop a working knowledge in the area through focused projects, presentations, and individual assignments.
-Course Structure:
-Since the first part of this course investigates new and cutting-edge theories and their application, it will be structured more as a research tutorial to facilitate individual student’s exploration.  Lectures and on-line experiences will be used to build an understanding of the topic and a basic toolkit for strategic analysis and human capital management.  These tools (e.g., Strategy Map, Competency Model, HR Scorecard) will be applied to a case of the student’s own choosing and form. the basis of a Human Capital Strategy which will become the basis for the Analytics part of the course.
-The second part of the course will develop students’ hands-on skills in human capital analytics. Building on the first half of the course, students will receive instructions and templates for designing a Human Capital scorecard (KPI’s), a data structure and a HC dashboard.  Each student will be expected to deliver an oral and visual presentation of a data dashboard in addition to a detailed final paper tying together all the deliverables in the course.
-Most of the course content will be delivered through Brightspace but student teams will be given an opportunity to interact with the instructor through regularly scheduled synchronous Zoom video-conference sessions.
-Readings:· Alan Burton-Jones, J.C. Spender (2011) The Oxford Handbook of Human Capital, Oxford University Press, Inc., New York. (Available on-line through the NYU Library)· Robert S. Kaplan and David P. Norton (2004). Strategy Maps: Converting Intangible Assets into Tangible Outcomes.  Harvard Business Press.· Lyle M. Spencer, Jr. and Signe M. Spencer (1993) “Competence at Work: Models for Superior Performance.” Wiley  Sons, Inc. ISBN 0-471-54809-X (optional and on reserve in the Birn Dibner Library)· Andrew McAfee and Erik Brynjolfsson (2017) “Machine, Platform, Crowd: Harnessing our digital future.” WW Norton and Company, New York.· Pease, G., Byerly, B.  Fitz-enz, J. (2013). “Human Capital Analytics” Hoboken, NJ: Wiley
-Additional Suggested Readings (Optional):
-Deiz, Fermin, Bussin, Mark, and Lee, Venessa (2020) “Fundamentals of HR Analytics,” Emerald Publishing.
-Edwards, Martin R. and Edwards Kirsten, (2019) “Predictive HR Analytics: Mastering the HR metric,” 2nd ed. Kogan Page.
-Waters, S.D., Streets, V.N., McFarlane, L., and Johnson-Murray, R. (2018) “The Practical Guide to HR Analytics,” SHRM.Other readings will be distributed in class or through Brightspace 
-Course Assignments and Grading:
-Participation and Graded Assignments/Activities
-Percent
-Team Project Deliverables and Participation (Group shared grade).40%
-Exams/Quizzes (Mid-term and Final)30%
-Individual Class Assignments (Individual Grade)20%
-Class Participation (based on attendance at all group and class assignments)10%
-Total100%
-Major Assignment
-Team Project Paper and Deliverables (40%)
-Each team will prepare a HC Strategy代 写MG-GY 6343-INET (6343) Human Capital Engineering & Analytics Fall 2023Python
-代做程序编程语言 and Measurement for an organization of their choice.  There will be one organization studied by each team.  The final document will include a summary of the organization’s strategy, a Human Capital Strategy, A set of Competency Models for 2 Strategic Job Families, and a Human Capital Scorecard.
-SessionTopics
-Module 1 Friday 
-Sept 8th  
-
-Overview and Introduction to HC
-· Historical Perspective on Human Capital Theory
-· Application to Human Resources Strategy
-· Emerging issues of Human/Technology Integration
-· Intellectual Property rights and Developing Economies
-Readings: Blair, M.M. An Economic Perspective on the Notion of “Human Capital” in the Oxford Handbook of Human Capital. (Chapter 1)
-Module 2 
-Friday 
-Sept 15th  
-
-Using the strategy Map to Inventory and/or Design Intangible Assets
-·  Which intangible assets are required by the Organization’s Strategy?
-·  How can these assets be defined in terms of human labor?
-·  How can these assets be defined in terms of technology?
-·  How do the interactions of human labor and technology enhance the organization’s outputs and market valuation?
-Readings: Kaplan and Norton Text Part II: Intangible Assets, pp. 199-275
-Module 3  
-Friday
-Sept 22nd
-
-
-Defining, Designing and Enhancing Human Capabilities
-· New Competency Models for the Post-Industrial Era
-· Changes in Performance and Reward Practices in the new work paradigm.
-· Exploring the outer reaches of Human Potential in high tech and data rich environments.
-· How engineers build Human Capability into machines and the state of the art in emulating human performance through machines.
-Readings: 
-· Spencer, L.M. Jr., and Spencer, S.M. “Competence at Work,” Part I, II and III. (Optional)
-Module 4 
-Friday
-Sept 29th 
-
-Introduction to Analytics  Alignment
-• Creating measurement from organization objectives.
-• Case examples of HR Measurement and Benchmarking 
-• Understanding Cause and Effect Relationships through Lead and Lag Measures
-Pease: Chapter 1  Chapter 2
-Module 5 
-Friday
-Oct 6th 
-
-Designing Work in the New Era of AI and Robotics
-· What to automate and what should people do?
-· Impact of the People/AI/Robotics interface in the future of work.
-· Issues of motivation and personal development in an automated work environment
-· Creating a blueprint for work design that makes the best of Human Capital
-· TBD
-Module 6
-Friday
-Oct.13th 
-
-Culture, Employee Turnover, Understanding What They Want and Why They Leave
-· Changes in the Employee/Employer Contract?
-· Using Surveys, Regression  Path Analyses to define cause-Effect Relationships
-· How do Organization and National cultures Contribute to or detract from Human Capital?
-· Do Robots become part of the culture?
-Oct 19th – Oct 23rd   
-Assessment - Mid-Term Exam (On-line on Brightspace – there will be no regular Zoom session)
-Assignment – Upload one page outline of Class Project on Brightspace (see instructions
-Module 7
-Friday
-Oct 27th 
-
-Measurement Plan and Supporting Data Foundation
-• Hypotheses or business questions
-• Defining the metrics
-• Demographics
-• Data sources and requirements
-• Types of data and linking these together
-• Importance of data structures for automation
-• Ethics of measurement and evaluation
-Pease: Chapters 3 and 4
-Assignment – Upload First Draft of Term Project Strategy Overview
-Module 8           Friday       Nov 3rd  
-Demographic analysis and selection validation
-· Analyzing demographic characteristics of a candidate pool.   Validating selection techniques to predict performance of applicants and internal hires.
-Assignment – Upload first draft of Team Project HC Strategy
-Module 9
-Friday
-Nov 10th 
-
-Dashboards and KPIs (Key Performance Indicators)
-• Types of analysis/measurements and their impacts.
-• Visual representations of data
-• Time Series
-• Enhanced metrics and descriptive stats
-• Correlation  Regression Mapping Cause and Effect (Path Analysis)
-• Statistical significance
-• Reward Systems and their Impact on Behavior.	
-• HR Scorecards  Dashboard Design
-Pease: Chapter 5 and 6
-Assignment – Upload first draft of Team Project Competency Model
-Module 10
-Friday
-Nov 17th 
-
-ROI to Optimization
-• Optimization
-• Presenting the financials
-• Telling the story and adding up the numbers
-• Preparing for Sponsor meetings
-• Economic Value Added (EVA) and how it derives from organization effectiveness.
-Pease: Chapters 7, 8 and 9
-Assignment – Upload First Draft of HC Scorecard
-Friday      Nov 24th 
-Thanksgiving Holiday  Native American Heritage Day No Class
-Friday
-Dec 1st
-Social Media, Data Scraping and other hot Topics in Big Data
-Friday
-Dec 8th 
-Team Presentations via Zoom
-Friday
-Dec 15th
-Team Presentations via Zoom
-Week of Dec 16th through 22nd 
-Assessment - Final Exam (On-line on Brightspace)
-
-
-
+[Fall 2024] ROB-GY 6203 Robot Perception Homework 1 1. Please submit the .pdf generated by this LaTex file.  This .pdf file will be the main document for us to grade your homework. If you wrote any code, please zip all the code together and submit a single .zip file. Name the code scripts clearly or/and make explicit reference in your written answers.  Do NOT submit very large data files along with your code!
+2.  You don’t have to use AprilTag for this homework.  You can use OpenCV’s Aruco tag if you are more familiar with them.3. You don’t have to physically print out a tag. Put them on some screen like your phone or iPad would work most of the time. Make sure the background of the tag is white. In my experience atagona black background is harder to detect.4.  Please typeset your report in LaTex/Overleaf.  Learn how to use LaTex/Overleaf before HW deadline, it is easy because we have created this template for you! Do NOT submit a hand-written report! If you do, it will be rejected from grading.
+5. Do not forget to update the variables “yourName” and “yourNetID” .
+Task 1 Sherlock’s Message (2pt) Detective Sherlock left a message for his assistant Dr.  Watson while tracking his arch-enemy Professor Moriarty. Could you help Dr.  Watson decode this message?  The original image itself can be found in the data folder of the overleaf project (https://www.overleaf.com/read/vqxqpvbftyjf), named for_watson.png  Figure 1: The Secret Message Left by Detective Sherlock
+Part A (1pt) 
+Please submit the image(s) after decoding.  The image(s) should have the secret message on it(them).  Screenshots or images saved by OpenCV is fine.
+Part B (1pt) 
+Please describe what you did with the image with words, and tell us where to find the code you wrote for this question.
+Task 2. Deep Learning with Fasion-MNIST (5pt) 
+Given the Fasion-MNIST dataset, perform. the following task:
+Part A (2pt) Train an unsupervised learning neural network that gives you a lower-dimensional representation of the images, after 代 写ROB-GY 6203 Robot Perception Homework 1 Fall 2024Matlab
+代做程序编程语言which you could easily use t-SNE from Scikit-Learn to bring the dimension down to Visualize the results of all 10000 images in one single visualization.
+Part B (3pt) Take the lower-dimensional latent representation produced in Part A and train a supervised classifier using these features. Visualize the loss and accuracy curves during the training process for both the training and testing datasets.   Discuss your observations on the behavior. of both curves.   Evaluate the classifier’s performance using accuracy or other appropriate metrics on the test set. Report your final accuracy, providing examples of correct and incorrect predictions.
+Task 3 Camera Calibration (3pt) Compare and contrast the intrinsic parameters (K matrix) and distortion coefficients  (k1 and k2) obtained from calibrating your camera using two different sets of images. For the first set, take images where the distance between the camera and the calibration rig is within 1 meter.  For the second set, take images where the distance is between 2 to 3 meters. Use the provided pyAprilTag package or other available tools (such as OpenCV’s camera calibration toolkit) to perform. the calibration and analyze the differences between the two sets. Discuss potential reason(s) for the differences (A good discussion about these reasons could receive 1 bonus point).
+Task 4 Tag-based Augmented Reality (5pt) Use the pyAprilTag package to detect an AprilTag in an image (or use OpenCV for an Aruco Tag), for which you should take a photo of a tag. Use the K matrix you obtained above, to draw a 3D cube of the same size of the tag on the image, as if this virtual pyramid really is on top of the tag. Document the methods you use, and show your AR results from at least two different perspectives.  Figure 2: Projected Pyramid on checkerboard
+Tips: There are many ways to do this, but you may find OpenCV’s projectPoints, drawContours, addWeighted and line functions useful. You don’t have to use all these functions.
 
          
 加QQ：99515681  WX：codinghelp
