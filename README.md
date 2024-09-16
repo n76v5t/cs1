@@ -1,20 +1,38 @@
 java c
-[Fall 2024] ROB-GY 6203 Robot Perception Homework 1 1. Please submit the .pdf generated by this LaTex file.  This .pdf file will be the main document for us to grade your homework. If you wrote any code, please zip all the code together and submit a single .zip file. Name the code scripts clearly or/and make explicit reference in your written answers.  Do NOT submit very large data files along with your code!
-2.  You don’t have to use AprilTag for this homework.  You can use OpenCV’s Aruco tag if you are more familiar with them.3. You don’t have to physically print out a tag. Put them on some screen like your phone or iPad would work most of the time. Make sure the background of the tag is white. In my experience atagona black background is harder to detect.4.  Please typeset your report in LaTex/Overleaf.  Learn how to use LaTex/Overleaf before HW deadline, it is easy because we have created this template for you! Do NOT submit a hand-written report! If you do, it will be rejected from grading.
-5. Do not forget to update the variables “yourName” and “yourNetID” .
-Task 1 Sherlock’s Message (2pt) Detective Sherlock left a message for his assistant Dr.  Watson while tracking his arch-enemy Professor Moriarty. Could you help Dr.  Watson decode this message?  The original image itself can be found in the data folder of the overleaf project (https://www.overleaf.com/read/vqxqpvbftyjf), named for_watson.png  Figure 1: The Secret Message Left by Detective Sherlock
-Part A (1pt) 
-Please submit the image(s) after decoding.  The image(s) should have the secret message on it(them).  Screenshots or images saved by OpenCV is fine.
-Part B (1pt) 
-Please describe what you did with the image with words, and tell us where to find the code you wrote for this question.
-Task 2. Deep Learning with Fasion-MNIST (5pt) 
-Given the Fasion-MNIST dataset, perform. the following task:
-Part A (2pt) Train an unsupervised learning neural network that gives you a lower-dimensional representation of the images, after 代 写ROB-GY 6203 Robot Perception Homework 1 Fall 2024Matlab
-代做程序编程语言which you could easily use t-SNE from Scikit-Learn to bring the dimension down to Visualize the results of all 10000 images in one single visualization.
-Part B (3pt) Take the lower-dimensional latent representation produced in Part A and train a supervised classifier using these features. Visualize the loss and accuracy curves during the training process for both the training and testing datasets.   Discuss your observations on the behavior. of both curves.   Evaluate the classifier’s performance using accuracy or other appropriate metrics on the test set. Report your final accuracy, providing examples of correct and incorrect predictions.
-Task 3 Camera Calibration (3pt) Compare and contrast the intrinsic parameters (K matrix) and distortion coefficients  (k1 and k2) obtained from calibrating your camera using two different sets of images. For the first set, take images where the distance between the camera and the calibration rig is within 1 meter.  For the second set, take images where the distance is between 2 to 3 meters. Use the provided pyAprilTag package or other available tools (such as OpenCV’s camera calibration toolkit) to perform. the calibration and analyze the differences between the two sets. Discuss potential reason(s) for the differences (A good discussion about these reasons could receive 1 bonus point).
-Task 4 Tag-based Augmented Reality (5pt) Use the pyAprilTag package to detect an AprilTag in an image (or use OpenCV for an Aruco Tag), for which you should take a photo of a tag. Use the K matrix you obtained above, to draw a 3D cube of the same size of the tag on the image, as if this virtual pyramid really is on top of the tag. Document the methods you use, and show your AR results from at least two different perspectives.  Figure 2: Projected Pyramid on checkerboard
-Tips: There are many ways to do this, but you may find OpenCV’s projectPoints, drawContours, addWeighted and line functions useful. You don’t have to use all these functions.
+Introduction to Astronomy, ASTR 1100 R11
+FALL 2024
+1.      COURSE FORMAT
+This course will be offered online only.  In order to complete this course and access KPU services, you must have the following:
+•    An electronic device (such as a desktop computer, laptop, smart phone, or tablet)
+•    Reliable access to the internet
+NOTE: Although this course is being delivered online, respectful behavior is expected at all times, just as if you were attending this course in person.
+Videos, reading material, and reading quizzes will be available online for students prior to the weekly online meeting on Wednesdays. The weekly meeting will typically be a mix of QA, coverage of current events in astronomy, group work, and student video presentations. Online Mastering Astronomy homework
+(CourseId iscoombes39134) will be assigned weekly and a term paper will be due towards the end of the semester. Labs will be a mixture of hands-on and computer-based activities that you can do at home. Your lab instructor will provide more information on labs at the start of the semester.
+
+
+2.      COURSE DESCRIPTION
+This is an introductory course in astronomy and is intended for students not majoring in science. Topics include the Earth, the solar system, stars, galaxies and cosmology, as well as light and telescopes. The laboratory program explores a variety of scientific topics and techniques.
+3.      TENTATIVE SCHEDULE OF TOPICSWeekTopicsText Chapters1IntroductionOur Place in the Universe
+12Our View of the Sky2,33Origin of the Solar System44Terrestrial Worlds55The Outer Solar System66Light and TelescopesSee “Tools of Science” sections in chapters 3, 5, 8, and 11.7Planets Around Other Stars78Our Sun and the Stars89Stellar Lives and Deaths9,1010Galaxies1111Galaxy Distances and the Expansion of the Universe12,13,1412Life in the Universe1513Review
+
+4.   REQUIRED MATERIALS
+(i)   The Cosmic Perspective Fundamentals, 代 写Introduction to Astronomy, ASTR 1100 R11 FALL 2024SQL
+代做程序编程语言3rd  Edition, Bennett, Donahue, Schneider  Voit.
+(ii)  Mastering Astronomy, online homework system
+(iii) ASTR 1100 Laboratory Guide. Online access will be provided free of charge by your lab instructor.
+Link to Bookstore to purchase etext and MasteringAstrononomy
+5.   DETAILED SUMMARY OF EVALUATION SCHEME
+Online homework assignments                                    15%
+Online in-class group activities                                     15%
+Video presentations                                                       25%
+Term paper                                                                       20%
+Home lab activities                                                          25%
+
+GradeGrade PointsConversion Scale(%)DefinitionA+4.3390  - 100Exceptional AchievementA4.0085  -   89Outstanding AchievementA-3.6780  -   84Excellent AchievementB+3.3376  -   79Very Good AchievementB3.0072  -   75Good AchievementB-2.6768  -   71Good AchievementC+2.3364  -   67Satisfactory AchievementC2.0060  -   63Satisfactory AchievementC-1.6756  -   59Minimal Achievement. This grade does not    permit student to pursue another course for which the graded course was a prerequisite.D1.0050  -   55Minimal achievement. This grade does not permit student to pursue another course for which thegraded course was a prerequisite.F0.000   -   49Unsatisfactory achievement. Student did not meet minimum course requirements.
+6.   INSTRUCTOR/CLASSROOM POLICIES:
+Attendance at the weekly online session is strongly recommended. It will involve important activities such as graded group work and student video presentations.
+7.   HOME LAB ACTIVITIES
+You must complete all of the lab activities to pass the course. They will be composed of both hands-on and computer-based activities that you will do at home. More information will be available from your lab instructor at the start of the semester.
 
          
 加QQ：99515681  WX：codinghelp
